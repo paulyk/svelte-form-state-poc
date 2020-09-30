@@ -81,7 +81,7 @@ let part_1: Part_1 = {
 
 
 let _state: State = {
-    title: "Multi Part POC",
+    title: "Multi Stage Form State Machine",
     part_1: part_1,
     part_2: part_2,
     part_3: part_3

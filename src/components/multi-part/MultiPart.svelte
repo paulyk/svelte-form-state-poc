@@ -10,7 +10,7 @@
   } from "./stateMachine";
 </script>
 
-<h1>Test: {$store.title}</h1>
+<h1> {$store.title}</h1>
 <div class="box">
   <button on:click={loadPart_1}>Load part 1</button>
   {#if $store.part_1.completed}
